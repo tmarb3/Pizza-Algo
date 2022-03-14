@@ -7,4 +7,6 @@
 5. Wait for delivery
 6. Greet delivery driver
 7. See step 4b if necessary
-
+8. If the order is wrong, call the pizza place
+    8a - get a refund
+    8b - wait for the correct order
